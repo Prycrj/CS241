@@ -1,0 +1,18 @@
+This class defines a car with attributes:
+- x and y coordinate
+- initial heading
+
+This class allows for the following functions:
+- car (); // will allow for initial position to be set
+- car(int,int); //will allow for input of new position
+- setOrigin; //will allow for origin to be set to 0,0 for reference
+-setSpeed(int); //will allow for speed of car to be set
+- getSpeed(); //will return the car's current speed
+- turn_right(int,int); //will allow for right turn
+- turn_left(int,int); //will allow for left turn
+- setHeading; // will assign the direction of the car
+- getHeading; // will return the cars current direction
+- setBreak; // will stop the car
+- inc_speed(int); //will increase the cars speed
+- dec_speed(int); // will decrease the cars speed
+- reverse(int,int); //will allow for cars movement in opposite direction
