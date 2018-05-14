@@ -1,3 +1,12 @@
+/*
+Name: Rayona Pryce
+Date: 5/14/18
+Version: Final
+Description: Write a program that stores all the subsets of a set consisting of at most six (6) elements. The program
+should prompt the user to enter the elements of the set which should be letters or digits; and then,
+it should create a le that lists all the subsets of the set. Each subset should be on its own line and
+written in set notation.
+*/
 #include <iostream>
 #include <string>
 #include <math.h>
